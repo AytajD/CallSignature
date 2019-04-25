@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CallSignature</string>
+    <string name="toolbar_title">Zənglər</string>
+    <string name="date">Bazar ertəsi, 20:08, Mobil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_signature">Mənim İmzam</string>
+    <string name="signature">Bu zəng çox önəmlidir.\nMümkün qədər tez cavab verin\nImza: Aytaj Dadashova</string>
+    <string name="change">Dəyişdir</string>
+</resources>

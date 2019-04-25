@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5574F7</color>
+    <color name="colorPrimaryDark">#5574f7</color>
+    <color name="colorAccent">#e9f1fc</color>
+    <color name="colorDate">#acb3bb</color>
+    <color name="colorUsername">#5b6878</color>
+    <color name="colorLightBlue">#60c3ff</color>
+    <color name="colorDialogText">#669efd</color>
+    <color name="colorTabUnSelected">#8da2fa</color>
+    <color name="colorLayoutBackground">#f2f6f3</color>
+</resources>
